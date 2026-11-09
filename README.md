@@ -15,7 +15,7 @@ A local browser frontend for an experimental WebAssembly port of Dolphin, the Ga
 Clone this repository with its Dolphin core submodule, then start the Rust server:
 
 ```sh
-git clone --recurse-submodules <repository-url> wii-web
+git clone --recurse-submodules https://github.com/reyyanbereka2010-dotcom/wii-web.git wii-web
 cd wii-web
 cargo run
 ```
