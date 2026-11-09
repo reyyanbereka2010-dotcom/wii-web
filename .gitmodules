@@ -1,0 +1,3 @@
+[submodule "core/wasm-dolphin"]
+	path = core/wasm-dolphin
+	url = https://github.com/dougchansan/wasm-dolphin.git
